@@ -9,7 +9,7 @@ This project was developed collaboratively by:
 
 
 - **Aditya Rai** — GitHub
-**Prakash Singh** — GitHub
+- **Prakash Singh** — GitHub
 
 
 ## 🎯 Project Objective
