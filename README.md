@@ -7,8 +7,10 @@ An AI-based web application that uses computer vision techniques to recognize an
 
 This project was developed collaboratively by:
 
-- **Prakash Singh** — GitHub
+
 - **Aditya Rai** — GitHub
+**Prakash Singh** — GitHub
+
 
 ## 🎯 Project Objective
 
